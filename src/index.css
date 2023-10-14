@@ -1,11 +1,11 @@
 body {
-  background: radial-gradient( #b4c746, #045f50);
+  background: radial-gradient( #b4c746, #0f5f50);
   background-repeat: no-repeat;
   height: 100vh;
 }
 
 .con {
-  background: linear-gradient(to bottom, #25a51a, #f0571b);
+  background: linear-gradient(to bottom, #aaa51a, #f0571b);
   background-repeat: no-repeat;
   height: max-content;
   width: 330px;
